@@ -1,11 +1,11 @@
 {
-    "kernel": "_Z6kernelPPdPiS_iS_",
+    "kernel": "_Z6kernelPfS_S_",
     "targetFunction": false,
     "targetNested": false,
     "targetLoopsID": [
         0
     ],
-    "doCGRAMapping": false,
+    "doCGRAMapping": true,
     "row": 6,
     "column": 6,
     "precisionAware": false,
